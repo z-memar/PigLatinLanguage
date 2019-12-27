@@ -1,6 +1,5 @@
 # PigLatinLanguage
-print(" Zahra Memar",'\n',"Homework#3",'\n',"September 25,2019")
-print("")
+#Created a PigLatin program using multiple functions to translate a sentence to PigLatin.
 
 import string
 VOWEL=['a','e','i','o','u']
